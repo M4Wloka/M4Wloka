@@ -3,3 +3,4 @@
 </h1>
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=%20M4Wloka&theme=dark&mode=weekly&border=4E08EB&ring=4E08EB&sideNums=1FD1FFCB&sideLabels=9667FF&currStreakNum=1FD1FFCB&stroke=4E08EB&fire=EB5454&currStreakLabel=EB5454" alt="GitHub Streak" /></a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M4Wloka&langs_count=8)
