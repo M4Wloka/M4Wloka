@@ -41,7 +41,7 @@ Hello, I am Martyna, and I am a Computing Student. I really enjoy learning langu
 	:dragon: $\color{#5522F7}{\textsf{My commitments: }}$ :dragon: 
 </h1>
 
-![snake gif](https://github.com/M4Wloka/M4Wloka/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/M4Wloka/M4Wloka/blob/output/github-contribution-grid-snake.svg)
 
 <h1 align="center">
 <a href="https://www.linkedin.com/in/martyna-wloka/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martyna-wloka" height="20" width="30" /></a>
