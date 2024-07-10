@@ -33,10 +33,24 @@ Hello, I am Martyna, and I am a Computing Student. I really enjoy learning langu
 <br/>
 <br/>
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M4Wloka&hide=fortran,cython&theme=nightowl&border_color=5522F7&title_color=5522F7&text_color=aa80ce)
-
+![Top Langs](https://github-readme-stats-lac-nine-54.vercel.app/api/top-langs/?username=M4Wloka&hide=fortran,cython,php,c++&theme=nightowl&border_color=5522F7&title_color=5522F7&text_color=aa80ce)
 
 </h3>
+<br/>
+<br/>
+<h1 align="center">
+	:crystal_ball: $\color{#5522F7}{\textsf{Examples of the projects: }}$ :crystal_ball:
+</h1>
+
+<div align="center" style="display: flex; justify-content: center; gap: 5px;">
+	
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=M4Wloka&repo=Problem-Solving-through-Programming-QHO426&border_color=5522F7&title_color=5522F7&text_color=aa80ce&theme=nightowl)](https://github.com/M4Wloka/Problem-Solving-through-Programming-QHO426)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=M4Wloka&repo=Bootstrap-Event-Website&border_color=5522F7&title_color=5522F7&text_color=aa80ce&theme=nightowl)](https://github.com/M4Wloka/Bootstrap-Event-Website)
+
+</div>
+
+
+
 <br/>
 <br/>
 <h1 align="center">
@@ -44,6 +58,8 @@ Hello, I am Martyna, and I am a Computing Student. I really enjoy learning langu
 </h1>
 
 ![snake gif](https://github.com/M4Wloka/M4Wloka/blob/output/github-contribution-grid-snake-dark.svg)
+
+
 
 <h1 align="center">
 <a href="https://www.linkedin.com/in/martyna-wloka/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martyna-wloka" height="20" width="30" /></a>
