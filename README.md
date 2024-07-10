@@ -33,7 +33,7 @@ Hello, I am Martyna, and I am a Computing Student. I really enjoy learning langu
 <br/>
 <br/>
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M4Wloka&hide_progress=true&theme=dark#gh-dark-mode-only)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M4Wloka&theme=tokyonight)
 </h3>
 <br/>
 <br/>
