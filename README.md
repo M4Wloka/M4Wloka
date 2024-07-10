@@ -29,7 +29,7 @@ Hello, I am Martyna, and I am a Computing Student. I really enjoy learning langu
 <br/>
 <h1 align="center">:trophy: $\color{#5522F7}{\textsf{Stats }}$ 	:trophy: </h1>
 <h3 align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-nine-rouge.vercel.app?user=M4Wloka&theme=nightowl&border=5522F7&stroke=5522F7&ring=5522F7&sideNums=5522F7&currStreakLabel=EB5454&currStreakNum=EB5454&fire=EB5454&dates=5522F7" alt="GitHub Streak" /></a></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-nine-rouge.vercel.app?user=M4Wloka&theme=nightowl&border_radius=5&mode=weekly&border=5522F7&stroke=5522F7&ring=5522F7&sideNums=5522F7&currStreakLabel=EB5454&currStreakNum=EB5454&fire=EB5454&dates=5522F7" alt="GitHub Streak" /></a>
 <br/>
 <br/>
   
