@@ -33,7 +33,9 @@ Hello, I am Martyna, and I am a Computing Student. I really enjoy learning langu
 <br/>
 <br/>
   
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M4Wloka&hide=fortran,cython&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M4Wloka&hide=fortran,cython&theme=nightowl&border_color=5522F7&title_color=5522F7&text_color=aa80ce)
+
+
 </h3>
 <br/>
 <br/>
