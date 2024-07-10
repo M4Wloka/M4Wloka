@@ -4,7 +4,7 @@
 </h1>
 <br/>
 <p align="left">
-Hello, I am Martyna, and I am a Computing Student. I really enjoy learning languages and frameworks like Python, JavaScript, and Node. I also enjoy wireframing, UI/UX design, data analysis, and software engineering in general.
+Hello, I am Martyna. I really enjoy learning languages and frameworks like Python, JavaScript, and Node. I also enjoy wireframing, UI/UX design, data analysis, and software engineering in general.
 </p>
 <br/>
 <br/>
