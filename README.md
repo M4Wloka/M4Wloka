@@ -46,7 +46,7 @@ Hello, I am Martyna. I really enjoy learning languages and frameworks like Pytho
 	
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=M4Wloka&repo=Problem-Solving-through-Programming-QHO426&border_color=5522F7&title_color=5522F7&text_color=aa80ce&theme=nightowl)](https://github.com/M4Wloka/Problem-Solving-through-Programming-QHO426)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=M4Wloka&repo=Bootstrap-Event-Website&border_color=5522F7&title_color=5522F7&text_color=aa80ce&theme=nightowl)](https://github.com/M4Wloka/Bootstrap-Event-Website)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=M4Wloka&repo=Bootstrap-Event-Websit&border_color=5522F7&title_color=5522F7&text_color=aa80ce&theme=nightowl)](https://github.com/M4Wloka/CSS-Skyrim-Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=M4Wloka&repo=CSS-Skyrim-Project&border_color=5522F7&title_color=5522F7&text_color=aa80ce&theme=nightowl)](https://github.com/M4Wloka/CSS-Skyrim-Project)
 
 
 
