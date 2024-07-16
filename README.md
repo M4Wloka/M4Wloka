@@ -11,8 +11,14 @@ Hello, I am Martyna. I really enjoy learning languages and frameworks like Pytho
 <h1 align="center">:hammer_and_wrench: $\color{#5522F7}{\textsf{Skills }}$ 	:hammer_and_wrench: </h1>
 <br/>
 <p align="center">
-![HTML](icons/html.png) ![CSS](icons/css.png) ![JS](icons/js.png) ![NODE](icons/node.png) ![Express](icons/express-js.png) ![React](icons/react.png) ![Flask](icons/flask.png) ![Bootstrap](icons/bootstrap.png)
-
+![HTML](icons/html.png) 
+![CSS](icons/css.png) 
+![JS](icons/js.png) 
+![NODE](/icons/node.png) 
+![Express](/icons/express-js.png) 
+![React](/icons/react.png) 
+![Flask](/icons/flask.png) 
+![Bootstrap](/icons/bootstrap.png) 
 
 </p>
 <br/>
