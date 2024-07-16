@@ -11,19 +11,15 @@ Hello, I am Martyna. I really enjoy learning languages and frameworks like Pytho
 <h1 align="center">:hammer_and_wrench: $\color{#5522F7}{\textsf{Skills }}$ 	:hammer_and_wrench: </h1>
 <br/>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,react,threejs,bootstrap,flask&perline=9" />
-  </a>
-  <br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,py,sqlite&perline=3" />
-  </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=blender,figma,notion&perline=3" />
-  </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pycharm,vscode&perline=2" />
-  </a>
+![HTML](/icons/html.png) 
+![CSS](/icons/css.png) 
+![JS](/icons/js.png) 
+![NODE](/icons/node.png) 
+![Express](/icons/express-js.png) 
+![React](/icons/react.png) 
+![Flask](/icons/flask.png) 
+![Bootstrap](/icons/bootstrap.png) 
+
 </p>
 <br/>
 <br/>
