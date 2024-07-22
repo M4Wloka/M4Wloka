@@ -48,6 +48,8 @@ Hello, I am Martyna. I really enjoy learning languages and frameworks like Pytho
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=M4Wloka&repo=Introduction-to-Database-QHO429&border_color=5522F7&title_color=5522F7&text_color=aa80ce&theme=nightowl)](https://github.com/M4Wloka/Introduction-to-Database-QHO429)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=M4Wloka&repo=Web-Technologies-QHO431&border_color=5522F7&title_color=5522F7&text_color=aa80ce&theme=nightowl)](https://github.com/M4Wloka/Web-Technologies-QHO431)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=M4Wloka&repo=Festival-Website-Upgrade&border_color=5522F7&title_color=5522F7&text_color=aa80ce&theme=nightowl)](https://github.com/M4Wloka/Festival-Website-Upgrade)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=M4Wloka&repo=Bootstrap-Event-Website&border_color=5522F7&title_color=5522F7&text_color=aa80ce&theme=nightowl)](https://github.com/M4Wloka/Bootstrap-Event-Website)
