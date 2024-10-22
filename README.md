@@ -34,8 +34,8 @@ Hello, I am Martyna. I really enjoy learning languages and frameworks like Pytho
 <br/>
 	
 
-  
-![Top Langs](https://github-readme-stats-lac-nine-54.vercel.app/api/top-langs/?username=M4Wloka&hide=fortran,cython,php,c++&theme=nightowl&border_color=5522F7&title_color=5522F7&text_color=aa80ce)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M4Wloka&size_weight=0.5&count_weight=0.5&hide=fortran,cython,php,c++&theme=nightowl&border_color=5522F7&title_color=5522F7&text_color=aa80ce)
+
 
 </h3>
 <br/>
