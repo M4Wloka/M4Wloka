@@ -32,6 +32,7 @@ Hello, I am Martyna. I really enjoy learning languages and frameworks like Pytho
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=M4Wloka&theme=nightowl&border_radius=5&mode=weekly&border=5522F7&stroke=5522F7&ring=5522F7&sideNums=5522F7&currStreakLabel=EB5454&currStreakNum=EB5454&fire=EB5454&dates=5522F7" alt="GitHub Streak" /></a>
 <br/>
 <br/>
+	
 
   
 ![Top Langs](https://github-readme-stats-lac-nine-54.vercel.app/api/top-langs/?username=M4Wloka&hide=fortran,cython,php,c++&theme=nightowl&border_color=5522F7&title_color=5522F7&text_color=aa80ce)
