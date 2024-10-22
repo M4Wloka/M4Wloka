@@ -1,4 +1,4 @@
- <h1 align="center">
+<h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=6000&pause=1009&color=5522F7&center=true&vCenter=true&random=false&width=600&height=60&lines=Hello+there%2C+;I'm+Martyna+Wloka!;Self-proclaimed+coding+ninja+🥷;computing+student." alt="Typing SVG" />
 </a>
 </h1>
@@ -29,11 +29,11 @@ Hello, I am Martyna. I really enjoy learning languages and frameworks like Pytho
 <br/>
 <h1 align="center">:trophy: $\color{#5522F7}{\textsf{Stats }}$ 	:trophy: </h1>
 <h3 align="center">
-<a href="https://git.io/streak-stats"><img src="github-readme-stats-psi-gules.vercel.app?user=M4Wloka&theme=nightowl&border_radius=5&mode=weekly&border=5522F7&stroke=5522F7&ring=5522F7&sideNums=5522F7&currStreakLabel=EB5454&currStreakNum=EB5454&fire=EB5454&dates=5522F7" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-nine-rouge.vercel.app?user=M4Wloka&theme=nightowl&border_radius=5&mode=weekly&border=5522F7&stroke=5522F7&ring=5522F7&sideNums=5522F7&currStreakLabel=EB5454&currStreakNum=EB5454&fire=EB5454&dates=5522F7" alt="GitHub Streak" /></a>
 <br/>
 <br/>
   
-![Top Langs]("https://github-readme-stats-psi-gules.vercel.app/api/top-langs/?username=M4Wloka&hide=fortran,cython,php,c++&theme=nightowl&border_color=5522F7&title_color=5522F7&text_color=aa80ce")
+![Top Langs](https://github-readme-stats-lac-nine-54.vercel.app/api/top-langs/?username=M4Wloka&hide=fortran,cython,php,c++&theme=nightowl&border_color=5522F7&title_color=5522F7&text_color=aa80ce)
 
 </h3>
 <br/>
@@ -44,17 +44,17 @@ Hello, I am Martyna. I really enjoy learning languages and frameworks like Pytho
 
 <div align="center" style="display: flex; justify-content: center; gap: 5px;">
 	
-[![Readme Card]("https://github-readme-stats-psi-gules.vercel.app/api/pin/?username=M4Wloka&repo=Problem-Solving-through-Programming-QHO426&border_color=5522F7&title_color=5522F7&text_color=aa80ce&theme=nightowl)](https://github.com/M4Wloka/Problem-Solving-through-Programming-QHO426")
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=M4Wloka&repo=Problem-Solving-through-Programming-QHO426&border_color=5522F7&title_color=5522F7&text_color=aa80ce&theme=nightowl)](https://github.com/M4Wloka/Problem-Solving-through-Programming-QHO426)
 
-[![Readme Card]("https://github-readme-stats-psi-gules.vercel.app/api/pin/?username=M4Wloka&repo=Introduction-to-Database-QHO429&border_color=5522F7&title_color=5522F7&text_color=aa80ce&theme=nightowl)](https://github.com/M4Wloka/Introduction-to-Database-QHO429")
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=M4Wloka&repo=Introduction-to-Database-QHO429&border_color=5522F7&title_color=5522F7&text_color=aa80ce&theme=nightowl)](https://github.com/M4Wloka/Introduction-to-Database-QHO429)
 
-[![Readme Card]("https://github-readme-stats-psi-gules.vercel.app/api/pin/?username=M4Wloka&repo=Web-Technologies-QHO431&border_color=5522F7&title_color=5522F7&text_color=aa80ce&theme=nightowl)](https://github.com/M4Wloka/Web-Technologies-QHO431")
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=M4Wloka&repo=Web-Technologies-QHO431&border_color=5522F7&title_color=5522F7&text_color=aa80ce&theme=nightowl)](https://github.com/M4Wloka/Web-Technologies-QHO431)
 
-[![Readme Card]("https://github-readme-stats-psi-gules.vercel.app/api/pin/?username=M4Wloka&repo=Festival-Website-Upgrade&border_color=5522F7&title_color=5522F7&text_color=aa80ce&theme=nightowl)](https://github.com/M4Wloka/Festival-Website-Upgrade")
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=M4Wloka&repo=Festival-Website-Upgrade&border_color=5522F7&title_color=5522F7&text_color=aa80ce&theme=nightowl)](https://github.com/M4Wloka/Festival-Website-Upgrade)
 
-[![Readme Card]("https://github-readme-stats-psi-gules.vercel.app/api/pin/?username=M4Wloka&repo=Bootstrap-Event-Website&border_color=5522F7&title_color=5522F7&text_color=aa80ce&theme=nightowl)](https://github.com/M4Wloka/Bootstrap-Event-Website")
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=M4Wloka&repo=Bootstrap-Event-Website&border_color=5522F7&title_color=5522F7&text_color=aa80ce&theme=nightowl)](https://github.com/M4Wloka/Bootstrap-Event-Website)
 
-[![Readme Card]("https://github-readme-stats-psi-gules.vercel.app/api/pin/?username=M4Wloka&repo=CSS-Skyrim-Project&border_color=5522F7&title_color=5522F7&text_color=aa80ce&theme=nightowl)](https://github.com/M4Wloka/CSS-Skyrim-Project")
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=M4Wloka&repo=CSS-Skyrim-Project&border_color=5522F7&title_color=5522F7&text_color=aa80ce&theme=nightowl)](https://github.com/M4Wloka/CSS-Skyrim-Project)
 
 
 
