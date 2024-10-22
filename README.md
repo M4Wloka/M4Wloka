@@ -73,7 +73,7 @@ Hello, I am Martyna. I really enjoy learning languages and frameworks like Pytho
 	:dragon: $\color{#5522F7}{\textsf{My commitments: }}$ :dragon: 
 </h1>
 
-![snake gif](https://github.com/M4Wloka/M4Wloka/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/M4Wloka/M4Wloka/blob/output/github-snake-dark.svg.)
 
 
 
